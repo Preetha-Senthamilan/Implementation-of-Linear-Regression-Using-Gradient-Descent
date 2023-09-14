@@ -111,6 +111,13 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)
 ```
 
 ## Output:
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/265f3e06-cabe-4713-9f3c-6d956135d26f)
+
+### Cost function using gradient descent:
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/6818f89e-c67b-4ac5-95fa-23837b4d0e6b)
+
+### Profit Prediction:
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/307dd9b3-480d-4578-95a1-23e420e691b1)
 
 
 ## Result:
