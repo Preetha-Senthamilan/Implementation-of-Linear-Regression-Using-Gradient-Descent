@@ -9,12 +9,19 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1. Start the program
+ 
 2.Import numpy , pandas and matplotlib
+
 3.Read the file which store the data
+
 4.Declare x as Hours and y as scores of the dataset
+
 5.Using loop predict the data and find the MSE,dm,dc,y intercept,slope using the formulae
+
 6.Find the best fit using the straight line formula
+
 7.Display the data in graph using matplotlib libraries
+
 8.Stop the program
 
 ## Program:
