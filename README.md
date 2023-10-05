@@ -111,13 +111,41 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)
 ```
 
 ## Output:
+
+### Profit prediction
+
 ![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/265f3e06-cabe-4713-9f3c-6d956135d26f)
 
+### Function output
+
+![Screenshot 2023-10-05 103829](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/7c2fd5e4-0fe3-4dce-b304-4919868814e4)
+
+### Gradient descent
+
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/45433492-ceeb-48b6-8a6d-48addee5e315)
+
 ### Cost function using gradient descent:
+
 ![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/6818f89e-c67b-4ac5-95fa-23837b4d0e6b)
 
 ### Profit Prediction:
+
 ![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/307dd9b3-480d-4578-95a1-23e420e691b1)
+
+
+### Profit prediction for a population of 35,000:
+
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/fd827473-b904-47f9-afe0-c6d60d89effc)
+
+### Profit prediction for a population of 70,000:
+
+![image](https://github.com/Preetha-Senthamilan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119390282/b85b74d0-a0cc-4ffb-ab65-bf4d58bccfcb)
+
+
+
+
+
+
 
 
 ## Result:
